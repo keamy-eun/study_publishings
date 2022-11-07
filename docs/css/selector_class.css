@@ -9,3 +9,14 @@
 .back-color-yellow {
   background-color: yellow;
 }
+
+h3 {
+  color: brown;
+}
+.same-style-class {
+  color: skyblue;
+}
+
+#same-style-class {
+  color: aquamarine;
+}
