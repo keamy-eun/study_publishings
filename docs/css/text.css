@@ -1,0 +1,11 @@
+* {
+  border-style: 1px solid gray;
+  font-family: "Hi Melody", cursive;
+}
+.text-align {
+  text-align: center;
+  /* width: 50%; */
+}
+.text-decoration {
+  text-decoration: none;
+}
