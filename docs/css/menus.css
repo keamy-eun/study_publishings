@@ -3,17 +3,19 @@
   font-weight: 800;
 }
 
-.ul-align {
+.div-align {
   font-size: 15px;
   background-color: yellow;
-  padding: 13px;
+  padding: 5px;
   text-align: center;
+}
+
+.ul-align {
+  margin: 10px auto 10px auto;
 }
 .li-align {
   list-style-type: none;
   display: inline-block;
-  padding: 5px;
-  margin: 0px 10px 0px 20px;
   text-decoration-line: underline;
   text-decoration-color: blue;
 }
