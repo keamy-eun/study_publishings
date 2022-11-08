@@ -1,0 +1,11 @@
+* {
+  border: 1px dotted grey;
+}
+.ul {
+  list-style-type: none;
+  display: inline;
+}
+
+.li {
+  display: inline-block;
+}
