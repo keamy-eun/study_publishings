@@ -1,0 +1,36 @@
+.border-none {
+  border: none;
+}
+
+.first-line {
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  width: 100px;
+  margin-right: 0px;
+}
+.sec-line {
+  justify-content: start;
+  width: 700px;
+}
+.align-center {
+  margin-top: 20px;
+}
+.main-align {
+  border: 2px solid black;
+}
+
+.color1 {
+  background-color: orange;
+  text-align: center;
+}
+.color2 {
+  background-color: beige;
+}
+
+.table2 {
+  width: 800px;
+}
+.padding1 {
+  padding-right: 200px;
+}
